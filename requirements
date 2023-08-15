@@ -1,0 +1,7 @@
+streamlit==0.84.1
+datetime
+pandas
+numpy
+matplotlib
+plotly
+streamlit_option_menu
