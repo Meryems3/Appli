@@ -4,8 +4,6 @@ import streamlit as st
 import datetime
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import plotly.express as px
 from streamlit_option_menu import option_menu
 
 #Création de option menu
